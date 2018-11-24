@@ -1,0 +1,2 @@
+# bankacilik
+bankacılık otomasyonu
